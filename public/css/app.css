@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 80px;
+  text-align: center;
+  background: lightgrey;
+}
+
+main {
+  padding: 50px;
+}
+
+main h1 {
+  padding-bottom: 20px;
+}
+
+main ul li {
+  list-style-type: decimal;
+}
+
+main .utente {
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  height: 80px;
+  text-align: center;
+  background: lightblue;
+}
+
